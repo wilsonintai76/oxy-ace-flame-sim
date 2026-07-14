@@ -1,0 +1,6 @@
+{
+  "name": "Oxy-Acetylene Combustion Lab",
+  "description": "Interactive thermodynamic gas combustion and metallurgy simulation lab for Neutral, Carburizing, and Oxidizing flame environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
